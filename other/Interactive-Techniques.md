@@ -15,9 +15,9 @@ Not all techniques listed here will have universal appeal, with factors such as 
 
 ## Instructor Action: Lecture
 
-1. **Picture Prompt** – Show students an image with no explanation, and ask them to dentify/explain it, and justify their answers. Or ask students to write about it using terms rom lecture, or to name the processes and concepts shown. Also works well as group ctivity. Do not give the “answer” until they have explored all options first.
+1. **Picture Prompt** – Show students an image with no explanation, and ask them to dentify/explain it, and justify their answers. Or ask students to write about it using terms from lecture, or to name the processes and concepts shown. Also works well as group ctivity. Do not give the “answer” until they have explored all options first.
 
-> 1. **图片提示** – 向学生展示一张图片，不对图片进行解释。要求学生识别 / 解释它，调整他们的答案。或要求学生
+> 1. **图片提示** – 向学生展示一张图片，不对图片进行解释。要求学生识别 / 解释它，调整他们的答案。或要求学生使用课程中的概念写下来，或给显示出来的流程或概念命名。也可以当作小组活动。在学生给出所有选项之前，不要给出答案。
 
 
 
